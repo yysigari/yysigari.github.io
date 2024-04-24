@@ -4,9 +4,80 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My GitHub Page</title>
+    <style>
+        body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+#picture-row {
+            display: flex; /* Use flexbox to arrange images in a row */
+            justify-content: space-around; /* Align images evenly */
+            margin: 20px 0;
+}
+
+.small-picture  {
+            width: 150px; /* Set the width of the images */
+            height: 150px; /* Set the height to the same value to make them square */
+            object-fit: cover; /* Maintain aspect ratio and cover the entire area */
+            border-radius: 10px; /* Add border radius to make them slightly rounded */
+        }
+
+img {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
+
+    </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub Page!</h1>
-    <p>This is a simple GitHub Pages website.</p>
+    <header>
+        <h1>Welcome to My GitHub Page!</h1>
+        <p>My name is Yasaman Sigari, I am a PhD candidate at UofS.</p>
+        <div id="picture-row">
+            <img src="figure3_banf.jpg" alt="Your Name" class="small-picture">
+        </div>
+    </header>
+    <section id="bio">
+        <h2>Biography</h2>
+        <p>I started my Ph.D. journey in the University of Saskatchewan in Canada, fascinated by the world of synchrotron radiation and accelerators. 
+           My research focuses on optimizing the performance of particle accelerators, aiming to push the boundaries of scientific discovery.
+           One of the pivotal moments in my academic journey was a visit to the European Organization for Nuclear Research, more commonly known as CERN. 
+           This visit introduced me to the cutting-edge research being conducted in particle physics and provided invaluable insights into the world's largest particle physics laboratory.
+        </p>
+    </section>
+    <section id="cv">
+        <h2>Curriculum Vitae</h2>
+        <p>Download my CV <a href="My_Résumé.pdf" target="_blank">here</a>.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Yasaman Yousefi Sigari</p>
+    </footer>
 </body>
 </html>
