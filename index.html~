@@ -72,17 +72,9 @@ footer {
            This visit introduced me to the cutting-edge research being conducted in particle physics and provided invaluable insights into the world's largest particle physics laboratory.
         </p>
     </section>
-    <section id="github">
-        <h2>GitHub</h2>
-        <p>Check out my fun shell scripts on GitHub: <a href="https://github.com/yysigari/shell_script" target="_blank">Shell Scripts</a></p>
-    </section>
     <section id="cv">
         <h2>Curriculum Vitae</h2>
         <p>Download my CV <a href="My_Résumé.pdf" target="_blank">here</a>.</p>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>You can reach me at yysigari@gmail.com.</p>
     </section>
     <footer>
         <p>&copy; 2024 Yasaman Yousefi Sigari</p>
