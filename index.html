@@ -52,7 +52,19 @@ footer {
     background-color: #333;
     color: white;
 }
+#centered-image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;          /* Take full viewport height */
+            text-align: center;     /* Center text if present */
+        }
 
+.centered-image {
+            max-width: 80%;         /* Optional: limit size */
+            max-height: 80%;        /* Optional: limit size */
+            object-fit: cover;      /* Ensure aspect ratio is maintained */
+        }
 
     </style>
 </head>
@@ -75,6 +87,9 @@ footer {
     <section id="github">
         <h2>GitHub</h2>
         <p>Check out my fun shell scripts on GitHub: <a href="https://github.com/yysigari/shell_script" target="_blank">Shell Scripts</a></p>
+    </section>
+    <section id="centered-image">
+        <img src="gamma_convergence.gif" alt="Centered Image" class="centered-image">
     </section>
     <section id="cv">
         <h2>Curriculum Vitae</h2>
