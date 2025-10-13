@@ -16,7 +16,7 @@ repository               : "https://github.com/yysigari/shell_script"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yasaman Yousefi Sigari"
   pronouns         : "she/her"  
   bio              : "PostDoctoral Researcher"
