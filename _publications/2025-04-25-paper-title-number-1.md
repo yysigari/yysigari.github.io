@@ -1,7 +1,7 @@
 ---
 title: "Investigating the limits of hard X-ray coherence length measurement employing Young's double slit experiment"
 collection: publications
-category: manuscripts1
+category: manuscripts
 permalink: /publication/2025-04-25-paper-title-number-1
 excerpt: ''
 date: 2025-04-25
