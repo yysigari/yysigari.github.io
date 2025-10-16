@@ -8,7 +8,7 @@ date: 2025-04-25
 venue: 'Nature Scientific Reports'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.1038/s41598-025-03295-y'
-citation: 'Castle R, Appathurai N, Simonson N, Sigari Y, Boland MJ, He F, Karunakaran C, Wang J, Moreno BD, Kuppili VSC. Investigating the limits of hard X-ray coherence length measurement employing Young's double slit experiment. Sci Rep. 2025 May 25;15(1):18159. doi: 10.1038/s41598-025-03295-y. PMID: 40415039; PMCID: PMC12104319.'
+#citation: 'Castle R, Appathurai N, Simonson N, Sigari Y, Boland MJ, He F, Karunakaran C, Wang J, Moreno BD, Kuppili VSC. Investigating the limits of hard X-ray coherence length measurement employing Young's double slit experiment. Sci Rep. 2025 May 25;15(1):18159. doi: 10.1038/s41598-025-03295-y. PMID: 40415039; PMCID: PMC12104319.'
 ---
 
 
