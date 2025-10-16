@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-08-10
 venue: 'IPAC2021'
 paperurl: 'https://doi.org/10.18429/JACoW-IPAC2021-MOPAB310'
-!citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 
